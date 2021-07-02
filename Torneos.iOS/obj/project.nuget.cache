@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlRUsSn0sJXKeIGdOx9EvNCitw7Zit6T0D2LVi8SdkzueoMZADb2KgqJs0auYLX292L34p7skSG+XN/mq4MAUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Briam\\source\\repos\\Torneos\\Torneos.iOS\\Torneos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Briam\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\expandableview\\1.0.10\\expandableview.1.0.10.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\firebasedatabase.net\\4.0.6\\firebasedatabase.net.4.0.6.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\syncfusion.licensing\\19.2.0.44\\syncfusion.licensing.19.2.0.44.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\syncfusion.xamarin.core\\19.2.0.44\\syncfusion.xamarin.core.19.2.0.44.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\syncfusion.xamarin.expander\\19.2.0.44\\syncfusion.xamarin.expander.19.2.0.44.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Briam\\.nuget\\packages\\xamarin.communitytoolkit\\1.1.0\\xamarin.communitytoolkit.1.1.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
